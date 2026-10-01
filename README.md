@@ -1,2 +1,0 @@
-# aide
-Created by myGitSync
